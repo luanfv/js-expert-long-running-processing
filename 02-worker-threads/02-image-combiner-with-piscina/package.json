@@ -1,0 +1,19 @@
+{
+  "name": "02-image-combiner-with-piscina",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^7.11.0",
+    "axios": "^1.4.0",
+    "piscina": "^3.2.0",
+    "sharp": "^0.32.1"
+  }
+}
